@@ -1,0 +1,4 @@
+# pyetrybot
+
+TODO:
+  - Complete Readme
